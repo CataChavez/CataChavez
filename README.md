@@ -71,9 +71,6 @@
 ![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-Fundamentals%3A%20Core%20Infra-1a73e8) — ID: 1984990 · may/2022  
 ![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-Foundational%20Tasks%20in%20GCP-1a73e8) — ID: 2087828 · may/2022  
 
-> Sugerencia: Si quieres, enlazo cada badge a su “Mostrar credencial”. Por ejemplo:  
-> `[![Udemy](...)](https://www.udemy.com/certificate/UC-17fae1d9-2e12-4cb6-8977-cdd0eb60f540/)`
-
 ### 🎓 Cursos & Bootcamps
 ![Udemy](https://img.shields.io/badge/Angular-De%20cero%20a%20experto-E65100) — ID: UC-723741e2-cd05-426b-8bcc-9e975eb359fc · mar/2022  
 ![Desaf%C3%ADo%20Latam](https://img.shields.io/badge/Desaf%C3%ADo%20Latam-React%20Developer-20232A) — ID: 14042 · jun–sep/2021  
