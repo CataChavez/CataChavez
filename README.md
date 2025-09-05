@@ -42,7 +42,7 @@
   - [bd-node](https://github.com/CataChavez/bd-node) · Node + PostgreSQL (gestión de BD).
   - [app-with-express](https://github.com/CataChavez/app-with-express) · rutas y middlewares en Express.
 - **Portfolio**
-  - [CataChavez.github.io](https://github.com/CataChavez/CataChavez.github.io) · sitio personal.
+  - [CataChavez.github.io](https://catachavez.github.io) · sitio personal.
 
 ### 🟣 En qué estoy ahora
 - Construyendo una **app móvil en React Native** (gastos por proyecto, Firebase Auth + roles; backend **NestJS** separado).
